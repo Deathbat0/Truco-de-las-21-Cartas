@@ -10,3 +10,5 @@ que tiene en mente.
 El proyecto consiste en programar este truco de forma tal que el programa creado sea capaz de adivinar
 la carta que el usuario esté mirando en la pantalla, únicamente recibiendo como información el número
 de grupo en que está la carta (tarjeta) que el usuario está mirando.
+
+La solucion al proyecto asi como su archivo jar se encuantran en la carpeta SRC
