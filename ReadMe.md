@@ -9,10 +9,10 @@
     <div><p>El truco de 21 cartas (que puede ser hecho con cualquier otro número de cartas que sea múltiplo de 3), funciona de la siguiente manera. El mago, o ejecutor, toma 21 cartas cualesquiera de un mazo común, y las presenta en tres grupos al espectador. Al ser 21 cartas cada grupo queda de 7 cartas:
     </p>
     </div>
-    <div style="display: inline-block; width: 35%; vertical-align: top; margin-right: 20px;">
+    <div style="display: inline-block; width: 25%; vertical-align: top; margin-right: 20px;">
     <img src="images/Carts1.jpg">
     </div>
-    <div style="display: inline-block; width: 50%; vertical-align: top;">
+    <div style="display: inline-block; width: 40%; vertical-align: top;">
     <p>El mago le pedirá al espectador que elija una de esas cartas sin decirle cuál es. Lo único que el espectador tiene que hacer es señalar en cuál de esos tres grupos está la carta que tiene en mente.<br><br>
     Imagina por un momento que eres el espectador y el mago te ha presentado las cartas que tienes aquí a la izquierda, tal como se muestran allí. A ti te ha gustado el 5 de oro, que está al final de la primera columna, así que le dices al mago que tu carta está allí, en la columna 1.<br><br>
     Lo que el mago hará entonces será juntar las cartas nuevamente en tres montones, pero sin desordenarlas. Así que el primer montón tendrá las 7 cartas que ves en la columna 1 en el orden en que están allí: 12 de basto, 5 de basto, 6 de espadas, 10 de espadas, 12 de oro, 8 de espadas y 5 de oro. Lo mismo con las otras dos columnas.
@@ -20,10 +20,10 @@
     </div>
     <p>A continuación el mago juntará los montones en un único mazo pero teniendo la precaución de que el 
     montón que tiene a la carta del espectador quede en medio de los otros dos:</p>
-    <div style="display: inline-block; width: 35%; vertical-align: top; margin-right: 20px;">
+    <div style="display: inline-block; width: 25%; vertical-align: top; margin-right: 20px;">
     <img src="images/Carts2.jpg">
     </div>
-    <div style="display: inline-block; width: 50%; vertical-align: top;">
+    <div style="display: inline-block; width: 40%; vertical-align: top;">
     <p>En este caso entonces, al juntar las cartas en un único mazo quedarán en el orden que se ve a la izquierda. <br><br>
     Como ves, el 5 de oro estaría en la posición 14, luego del 8 de espadas. El mago no sabe cuál es nuestra carta, solo hace lo que acabo de decir.<br><br>Lo que hará a continuación es volver a mostrar las cartas al espectador en tres montones, pero los repartirá intercalado. Es decir, tomará el mazo y pondrá la primera carta en la columna 1, la segunda en la columna 2, la tercera en la columna 3, luego la cuarta en la columna 1, la quinta en la columna 2, la sexta en la columna 3, y así hasta el final.
     </p>
