@@ -10,7 +10,7 @@
     </p>
     </div>
     <div style="display: inline-block; width: 35%; vertical-align: top; margin-right: 20px;">
-    <img src="images/Carts1.jpg">
+    <img src="images/Carts1.jpg" width="300px">
     </div>
     <div style="display: inline-block; width: 50%; vertical-align: top;">
     <p>El mago le pedirá al espectador que elija una de esas cartas sin decirle cuál es. Lo único que el espectador tiene que hacer es señalar en cuál de esos tres grupos está la carta que tiene en mente.<br><br>
@@ -20,7 +20,7 @@
     </div>
     <p>A continuación el mago juntará los montones en un único mazo pero teniendo la precaución de que el 
     montón que tiene a la carta del espectador quede en medio de los otros dos:</p>
-    <div style="display: inline-block; width: 35%; vertical-align: top; margin-right: 20px;">
+    <div style="display: inline-block; width: 50%; vertical-align: top; margin-right: 20px;">
     <img src="images/Carts2.jpg" width="35%">
     </div>
     <div style="display: inline-block; width: 50%; vertical-align: top;">
