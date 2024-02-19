@@ -20,8 +20,8 @@
     </div>
     <p>A continuación el mago juntará los montones en un único mazo pero teniendo la precaución de que el 
     montón que tiene a la carta del espectador quede en medio de los otros dos:</p>
-    <div style="display: inline-block; width: 50%; vertical-align: top; margin-right: 20px;">
-    <img src="images/Carts2.jpg" width="35%">
+    <div style="display: inline-block; width: 35%; vertical-align: top; margin-right: 20px;">
+    <img src="images/Carts2.jpg" width="300px">
     </div>
     <div style="display: inline-block; width: 50%; vertical-align: top;">
     <p>En este caso entonces, al juntar las cartas en un único mazo quedarán en el orden que se ve a la izquierda. <br><br>
@@ -37,7 +37,7 @@
     En este caso el 5 de oro ya está en el grupo de en medio, con lo cual el mago simplemente junta los montones en ese orden (podría intercambiar los grupos 1 y 3 para confundir más al espectador si así lo quisiera)</p>
     </div>
     <div style="display: inline-block; width: 35%; vertical-align: top;">
-    <img src="images/Carts3.jpg">
+    <img src="images/Carts3.jpg" width="300px">
     </div>
     <p>Dado que en este caso dejaremos las cartas como están, su orden será ese mismo. Se puede apreciar que el 5 de oro está en la posición número 12. Al volver a repartir las cartas de forma intercalada (la primera al grupo 1, la segunda al grupo 2, la tercera al grupo 3, la cuarta al grupo 1, y así), tenemos ahora el siguiente arreglo de cartas mostrado al espectador:</p>
     <br>
@@ -48,7 +48,7 @@
     Lo único que tienes que hacer para adivinar la carta es contar las cartas y sacar la número 11. Como ves, la matemática es mágica.</p>
     </div>
     <div style="display: inline-block; width: 35%; vertical-align: top;">
-    <img src="images/Carts3.jpg">
+    <img src="images/Carts3.jpg" width="300px">
     </div>
 </div>
 <div>
