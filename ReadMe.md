@@ -21,7 +21,7 @@
     <p>A continuación el mago juntará los montones en un único mazo pero teniendo la precaución de que el 
     montón que tiene a la carta del espectador quede en medio de los otros dos:</p>
     <div style="display: inline-block; width: 35%; vertical-align: top; margin-right: 20px;">
-    <img src="images/Carts2.jpg" width="70%">
+    <img src="images/Carts2.jpg" width="35%">
     </div>
     <div style="display: inline-block; width: 50%; vertical-align: top;">
     <p>En este caso entonces, al juntar las cartas en un único mazo quedarán en el orden que se ve a la izquierda. <br><br>
